@@ -1,0 +1,115 @@
+html{
+  scroll-behavior: smooth;
+}
+.navbar-nav a:hover{
+  color:white;
+}
+.carousel-item{
+  height: 100vh;
+  min-height: 300px;
+}
+.carousel-caption{
+  margin-bottom: 220px;
+}
+.carousel-caption h1{
+  color: #FFC300;
+  font-family: 'Bad Script';
+  font-weight: bolder;
+  margin-bottom: 25px;
+}
+.carousel-caption p{
+  font-family: 'Open Sans Condensed';
+
+  font-size: 1.25rem;
+  margin-top: 25px;
+  margin-bottom: 40px;
+}
+.aboutus{
+  padding-top:20px;
+  text-align: center;
+  background-color: #F4F5DB;
+
+}
+.aboutuscontent{
+  margin-left: 150px;
+
+}
+.aboutusimg{
+  width: 100vh;
+  min-width: 300px;
+  position: relative;
+
+}
+.aboutustitle{
+  text-align: center;
+  font-family: 'Bad Script';
+}
+.aboutustext{
+  text-align: center;
+  margin-right: 10px;
+  margin-top: 40px;
+  font-family: 'Roboto Condensed';
+  font-weight:normal;
+}
+.aboutustext li{
+  list-style: none;
+  margin-bottom: 15px;
+  font-weight: lighter;
+}
+.menu{
+  margin-top: 30px;
+}
+.menutext{
+  text-align: center;
+  font-family: 'Bad Script';
+}
+.menubuttons{
+  margin-top: 50px;
+  text-align: center;
+}
+.menubuttons li{
+  display: inline;
+  list-style: none;
+  margin-right: 10px;
+}
+.menuitems{
+  margin-left: 40px;
+  margin-right: 40px;
+  text-align: center;
+  margin-top: 40px;
+}
+
+.events{
+  background-image: url("https://unsplash.com/photos/iTc58VLTtEw/download?force=true&w=1920");
+  filter: contrast(120%);
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 750px;
+  width: 100%;
+  position: relative;
+}
+
+
+.eventsheader{
+  text-align: center;
+  padding-top: 100px;
+}
+.eventsholder{
+  margin-top: 40px;
+}
+.eventsimg1{
+  margin-right:150px;
+}
+.eventsimg2{
+  margin-left: 150px;
+}
+.eventsimg1text{
+  text-align: center;
+  margin-right: 150px;
+  margin-top: 40px;
+}
+.eventsimg2text{
+  text-align: center;
+  margin-top: 40px;
+  margin-left:150px;
+}
